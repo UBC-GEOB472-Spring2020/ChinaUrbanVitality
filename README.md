@@ -1,2 +1,2 @@
 # ChinaUrbanVitality
-Pubic repository for group project: Urban Vitality in China
+Public repository for group project: Urban Vitality in China
